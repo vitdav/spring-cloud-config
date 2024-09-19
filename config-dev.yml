@@ -1,0 +1,3 @@
+config:
+  info: "配置信息，来自spring-cloud-config/config-dev.yml"
+  version: 1.0
